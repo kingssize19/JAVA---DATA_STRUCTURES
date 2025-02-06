@@ -154,7 +154,7 @@ treeMap.put("JavaScript", 4);
 | HashMap	| O(1)*	| O(1)*	| -	| O(1)* |
 | TreeMap	| O(log n) |	O(log n)	| -	| O(log n) |
 
-* *\ Ortalama durumlarda.
+* "*" Ortalama durumlarda.
 
 
 
