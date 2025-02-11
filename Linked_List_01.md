@@ -1,5 +1,5 @@
 Kod 3 temel bileşene ayrılmıştır : 
-**1. Node Sınıfı :** Bağlı listenin her bir elemanını temsil eder.
+1. **Node Sınıfı :** Bağlı listenin her bir elemanını temsil eder.
 **2. List Sınıfı :** Bağlı listeyi yönetmek ve düzenlemek için kullanılan metotları içerir.
 **3. Main Metodu :** Bağlı listeyi test etmek ve çalışmasını görünür hale getirmek için kullanılır.
 
