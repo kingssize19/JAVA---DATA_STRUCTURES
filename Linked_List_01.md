@@ -1,7 +1,7 @@
 Kod 3 temel bileşene ayrılmıştır : 
 1. **Node Sınıfı :** Bağlı listenin her bir elemanını temsil eder.
-**2. List Sınıfı :** Bağlı listeyi yönetmek ve düzenlemek için kullanılan metotları içerir.
-**3. Main Metodu :** Bağlı listeyi test etmek ve çalışmasını görünür hale getirmek için kullanılır.
+2. **List Sınıfı :** Bağlı listeyi yönetmek ve düzenlemek için kullanılan metotları içerir.
+3. **Main Metodu :** Bağlı listeyi test etmek ve çalışmasını görünür hale getirmek için kullanılır.
 
 ## 1. Node Sınıfı
 
@@ -217,10 +217,10 @@ liste.yazdir();
 
 ## 5. Genel İşleyiş Mantığı 
 
-**1. Node Yapısı :** Her bir düğüm, bir id, bir name ve bir next referansı içerir. next, bir sonraki düğümü işaret eder.
-**2. Baş ve Son :** Listenin head ve tail referansları, sırasıyla ilk ve son düğümü işaret eder.
-**3. Fonksiyonlar :** Kullanıcıya listenin başına, sonuna veya belirli bir pozisyona düğüm ekleme yeteneği sağlar.
-**4. Bağlantılar :** Yeni düğümler eklenirken eski düğümlerin bağlantıları korunur.
+1. **Node Yapısı :** Her bir düğüm, bir id, bir name ve bir next referansı içerir. next, bir sonraki düğümü işaret eder.
+2. **Baş ve Son :** Listenin head ve tail referansları, sırasıyla ilk ve son düğümü işaret eder.
+3. **Fonksiyonlar :** Kullanıcıya listenin başına, sonuna veya belirli bir pozisyona düğüm ekleme yeteneği sağlar.
+4. **Bağlantılar :** Yeni düğümler eklenirken eski düğümlerin bağlantıları korunur.
 
 
 
