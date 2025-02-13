@@ -1,6 +1,6 @@
 # TEK YÖNLÜ DOĞRUSAL BAĞLI LİSTE 
 
-Bu dosyada 3 farklı silme fonksiyonu yer alıyor. Her biri, tek yönlü bağlı listede belirtilen konumdan bir elemanı silmek için kullanılıyor : **baştan silme**, **sondan silme**, **aradan ()belirtilen indeksten) silme**. 
+Bu dosyada 3 farklı silme fonksiyonu yer alıyor. Her biri, tek yönlü bağlı listede belirtilen konumdan bir elemanı silmek için kullanılıyor : **baştan silme**, **sondan silme**, **aradan (belirtilen indeksten) silme**. 
 
 ## 1. bastanSil() - Baştan Silme Fonksiyonu
 
