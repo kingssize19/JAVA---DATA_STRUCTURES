@@ -343,7 +343,7 @@ void arayaEkle(int idx, int data) {
 
 ## 4. yazdir()
 
-Bağlı listenin baştan sona elemanlarını yazdırır.
+**Bağlı listenin baştan sona elemanlarını yazdırır.**
 
 ```java
 void yazdir() {
@@ -364,7 +364,7 @@ void yazdir() {
 
 ## 5. sondanYazdir()
 
-Bağlı listenin sondan başa elemanlarını yazdırır.
+**Bağlı listenin sondan başa elemanlarını yazdırır.**
 
 ```java
 void sondanYazdir() {
