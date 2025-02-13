@@ -1,3 +1,5 @@
+# TEK YÖNLÜ DOĞRUSAL BAĞLI LİSTE 
+
 Kod 3 temel bileşene ayrılmıştır : 
 1. **Node Sınıfı :** Bağlı listenin her bir elemanını temsil eder.
 2. **List Sınıfı :** Bağlı listeyi yönetmek ve düzenlemek için kullanılan metotları içerir.
